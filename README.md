@@ -1,7 +1,3 @@
-# refix
-
-> Refix - Vue Nuxt Fridge &amp; Freezer Repair Company Template
-
 ## Build Setup
 
 ``` bash
